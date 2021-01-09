@@ -15,3 +15,9 @@
 ## 访问网址
 
 http://59.110.231.59/nuxt-hu77Home-realWorld/
+
+## 案例相关资源
+- [GitHub仓库](https://github.com/gothinkster/realworld)
+- [在线示例](https://demo.realworld.io/#/)
+- [页面模板](https://github.com/gothinkster/realworld-starter-kit/blob/master/FRONTEND_INSTRUCTIONS.md)
+- [接口文档](https://github.com/gothinkster/realworld/tree/master/api)
