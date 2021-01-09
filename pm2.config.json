@@ -1,0 +1,7 @@
+{
+  "apps": [{
+    "name": "fox77RealWorld",
+    "script": "npm",
+    "args": "start"
+  }]
+}

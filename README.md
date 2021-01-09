@@ -14,4 +14,4 @@
 
 ## 访问网址
 
-http://192.168.31.238/nuxt-hu77Home-realWorld/
+http://59.110.231.59/nuxt-hu77Home-realWorld/
