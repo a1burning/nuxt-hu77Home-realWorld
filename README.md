@@ -14,7 +14,7 @@
 
 ## 访问网址
 
-http://59.110.231.59/nuxt-hu77Home-realWorld/
+http://59.110.231.59/nuxt-hu77-realworld/
 
 ## 案例相关资源
 - [GitHub仓库](https://github.com/gothinkster/realworld)
