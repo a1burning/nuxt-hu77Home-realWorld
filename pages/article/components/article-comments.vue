@@ -7,9 +7,9 @@
       </div>
       <div class="card-footer">
         <img 
-          :src="user.image ? user.image : '/default.png'" 
+          :src="user.image ? user.image : '/nuxt-hu77-realworld/default.jpg'" 
           class="comment-author-img"
-          onerror="this.src='/default.png'" />
+          onerror="this.src='/nuxt-hu77-realworld/default.jpg'" />
         <button class="btn btn-sm btn-primary" :disabled="disabled">
         Post Comment
         </button>
@@ -30,9 +30,9 @@
             }
           }" class="comment-author">
           <img 
-          :src="comment.author.image ? comment.author.image : '/articleDefault.jpg'" 
+          :src="comment.author.image ? comment.author.image : '/nuxt-hu77-realworld/default.jpg'" 
           class="comment-author-img" 
-          onerror="this.src='/articleDefault.jpg'"/>
+          onerror="this.src='/nuxt-hu77-realworld/default.jpg'"/>
         </nuxt-link>
         &nbsp;
         <nuxt-link

@@ -7,9 +7,9 @@
 
           <div class="col-xs-12 col-md-10 offset-md-1">
             <img 
-              :src="profile.image ? profile.image : '/default.jpg'" 
+              :src="profile.image ? profile.image : '/nuxt-hu77-realworld/default.jpg'" 
               class="user-img"
-              onerror="this.src='/default.jpg'" />
+              onerror="this.src='/nuxt-hu77-realworld/default.jpg'" />
             <h4>{{ profile.username }}</h4>
             <p>
               {{ profile.bio }}

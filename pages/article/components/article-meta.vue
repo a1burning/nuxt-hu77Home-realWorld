@@ -7,7 +7,7 @@
           username: article.author.username
         }
       }">
-      <img :src="article.author.image ? article.author.image : '/articleDefault.jpg'" onerror="this.src='/articleDefault.jpg'"/>
+      <img :src="article.author.image ? article.author.image : '/nuxt-hu77-realworld/default.jpg'" onerror="this.src='/nuxt-hu77-realworld/default.jpg'"/>
     </nuxt-link>
     <div class="info">
       <nuxt-link
