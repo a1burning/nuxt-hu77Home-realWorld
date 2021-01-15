@@ -53,9 +53,6 @@ module.exports = {
     host: '0.0.0.0',
     port: 3001
   },
-  build: {
-    publicPath: '/nuxt-hu77-realworld/',
-  },
   plugins: [
     '~/plugins/request.js',
     '~/plugins/dayjs.js',  ]
