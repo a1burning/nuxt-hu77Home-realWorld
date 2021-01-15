@@ -3,8 +3,5 @@
     "name": "fox77RealWorld",
     "script": "npm",
     "args": "start"
-  }],
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/nuxt-hu77-realworld/$1" }
-  ]
+  }]
 }
