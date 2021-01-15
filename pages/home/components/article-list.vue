@@ -15,8 +15,8 @@
           }">
           <!-- 图片错误处理 -->
           <img 
-            :src="article.author.image ? article.author.image : '/nuxt-hu77-realworld/default.jpg'" 
-            onerror="this.src='/nuxt-hu77-realworld/default.jpg'"
+            :src="article.author.image ? article.author.image : '/default.jpg'" 
+            onerror="this.src='/default.jpg'"
           />
         </nuxt-link>
         <div class="info">

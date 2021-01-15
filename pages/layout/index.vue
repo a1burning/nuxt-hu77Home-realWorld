@@ -41,7 +41,7 @@
                   username: user.username
                 }
               }">
-                <img class="user-pic" :src="user.image ? user.image : '/nuxt-hu77-realworld/default.jpg'" onerror="this.src='/nuxt-hu77-realworld/default.jpg'">
+                <img class="user-pic" :src="user.image ? user.image : '/default.jpg'" onerror="this.src='/default.jpg'">
                 {{ user.username }}
               </nuxt-link>
             </li>

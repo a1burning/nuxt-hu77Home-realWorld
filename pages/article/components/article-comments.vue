@@ -7,9 +7,9 @@
       </div>
       <div class="card-footer">
         <img 
-          :src="user.image ? user.image : '/nuxt-hu77-realworld/default.jpg'" 
+          :src="user.image ? user.image : '/default.jpg'" 
           class="comment-author-img"
-          onerror="this.src='/nuxt-hu77-realworld/default.jpg'" />
+          onerror="this.src='/default.jpg'" />
         <button class="btn btn-sm btn-primary" :disabled="disabled">
         Post Comment
         </button>
