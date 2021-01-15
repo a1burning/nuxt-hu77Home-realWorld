@@ -16,6 +16,11 @@
 
 http://59.110.231.59/nuxt-hu77-realworld/
 
+## vercel分支
+vercel 分支是部署在vercel平台的 
+
+https://vercel.com/a1burning/nuxt-hu77-home-real-world
+
 ## 案例相关资源
 - [GitHub仓库](https://github.com/gothinkster/realworld)
 - [在线示例](https://demo.realworld.io/#/)
