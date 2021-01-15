@@ -1,6 +1,5 @@
 module.exports = {
   router: {
-    base: '/nuxt-hu77-realworld',
     linkActiveClass: 'active',
     extendRoutes(routes, resolve) {
       routes.splice(0)
@@ -52,9 +51,6 @@ module.exports = {
   server: {
     host: '0.0.0.0',
     port: 3001
-  },
-  build: {
-    publicPath: '/nuxt-hu77-realworld/',
   },
   plugins: [
     '~/plugins/request.js',
