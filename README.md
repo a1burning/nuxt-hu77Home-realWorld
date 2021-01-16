@@ -14,7 +14,7 @@
 
 ## 访问网址
 
-http://59.110.231.59/nuxt-hu77-realworld/
+https://xhy.hu77.top/nuxt-hu77-realworld/
 
 ## vercel分支
 vercel 分支是部署在vercel平台的 
